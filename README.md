@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chandan Dhumale</h1>
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳🚀</h3>
 
 <div align="left">
