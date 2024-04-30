@@ -65,11 +65,22 @@ Mac OS                   22 hrs 8 mins       ███████████�
     <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=js,html,css,c,python,discord,firebase,github,kali,mysql,cpp,git,vscode,figma,notion,ps,webflow,linkedin&perline=6" />
 </a>
 </p>
+
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">🔥Streak Stats🔥</h3>
+
+<!-- custom streak stats: https://git.io/streak-stats -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandand1&show_icons=true&locale=en&layout=compact" alt="chandand1" /></p>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
 
