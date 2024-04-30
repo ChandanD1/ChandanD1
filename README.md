@@ -78,7 +78,7 @@ Mac OS                   22 hrs 8 mins       ███████████�
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandand1&show_icons=true&locale=en&layout=compact" alt="chandand1" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chandand1&" alt="chandand1" /></p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
