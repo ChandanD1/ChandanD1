@@ -68,7 +68,7 @@ Mac OS                   22 hrs 8 mins       ███████████�
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,c,python,tailwindcss,nodejs,express,laravel,mysql,cpp,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,html,css,c,python,discord,firebase,github,kali,mysql,cpp,git,vscode,figma,notion,ps,webflow,prisma&perline=6" />
 </a>
 </p>
 
