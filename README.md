@@ -8,20 +8,19 @@
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { Person } from 'India';
 
 new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id',
+    name   : 'Chandan Dhumale',
+    title  : 'Future Tech Leader',
+    email  : 'dhumalechandan10@gmail.com',
     married: !!!true,
 }).introduce();
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+C:\Chandan-Dhumale> node index.js
+Hi, my name is Chandan Dhumale, I'm a Computer Engineer from India.
 ```
 <div align="center">
 
@@ -31,10 +30,11 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-🌆 Daytime                2388 commits        ███████████░░░░░░░░░░░░░░   43.37 % 
-🌃 Evening                1879 commits        █████████░░░░░░░░░░░░░░░░   34.13 % 
-🌙 Night                  654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+🌞 Morning                5  commits         ███░░░░░░░░░░░░░░░░░░░░░░   5.62 % 
+🌆 Daytime                7  commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+🌃 Evening                10 commits         █████████░░░░░░░░░░░░░░░░   34.13 % 
+🌙 Night                  17 commits         ██████████░░░░░░░░░░░░░░░   54.37 % 
+
 ```
 
 📊 **This Week I Spent My Time On** 
@@ -42,16 +42,16 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
-TypeScript               15 hrs 2 mins       █████████████████░░░░░░░░   67.92 % 
-CSS                      5 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+💬 Programming Languages:
+JavaScript               15 hrs 2 mins       █████████████████░░░░░░░░   67.92 % 
+Html                     5 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+C++                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
 VS Code                  22 hrs 8 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 8 mins       █████████████████████████   100.00 % 
+Mac OS                   22 hrs 8 mins       █████████████████████████   100.00 % 
 ```
