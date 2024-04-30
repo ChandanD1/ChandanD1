@@ -24,7 +24,7 @@ Hi, my name is Chandan Dhumale, I'm a Computer Engineer from India.
 ```
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C637%20hrs%2030%20mins-blue)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
