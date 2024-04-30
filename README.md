@@ -40,7 +40,7 @@ Hi, my name is Chandan Dhumale, I'm a Computer Engineer from India.
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
+🕑︎ Time Zone: Asia/India
 
 💬 Programming Languages:
 JavaScript               15 hrs 2 mins       █████████████████░░░░░░░░   67.92 % 
