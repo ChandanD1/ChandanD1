@@ -1,58 +1,57 @@
-![logo](https://github.com/ChandanD1/ChandanD1/blob/main/GItHub_Banner/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-<h1 align="center">Hi 👋, I'm Chandan Dhumale</h1>
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<h3 align="center">A Passionate Software Developer from India 🇮🇳🚀</h3>
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
 
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+```js
+"use creativity";
+import { Person } from 'indonesia';
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandand1&label=Profile%20views&color=0e75b6&style=flat" alt="chandand1" /> </p>
+new Person({
+    name   : 'Deri Kurniawan',
+    title  : 'Full Stack Developer',
+    email  : 'deri.netuchi@gmail.com',
+    website: 'https://deri.my.id',
+    married: !!!true,
+}).introduce();
+```
 
-- 🌱 I’m currently learning **Python**
+```cmd
+D:\Deri-Kurniawan> node index.js
+Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+```
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChandanD1](https://github.com/ChandanD1)
+[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
 
-- 📫 How to reach me **dhumalechandan10@gmail.com**
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
-  <div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+```text
+🌞 Morning                585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+🌆 Daytime                2388 commits        ███████████░░░░░░░░░░░░░░   43.37 % 
+🌃 Evening                1879 commits        █████████░░░░░░░░░░░░░░░░   34.13 % 
+🌙 Night                  654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chandan dhumale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan dhumale" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/dhumale chandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dhumale chandan" height="30" width="40" /></a>
-</p>
+📊 **This Week I Spent My Time On** 
 
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+```text
+🕑︎ Time Zone: Asia/Jakarta
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+💬 Programming Languages: 
+TypeScript               15 hrs 2 mins       █████████████████░░░░░░░░   67.92 % 
+CSS                      5 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+🔥 Editors: 
+VS Code                  22 hrs 8 mins       █████████████████████████   100.00 % 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandand1&show_icons=true&locale=en&layout=compact" alt="chandand1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandand1&show_icons=true&locale=en" alt="chandand1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandand1&" alt="chandand1" /></p>
-
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ChandanD1/ChandanD1/output/github-contribution-grid-snake.svg" />
+💻 Operating System: 
+Windows                  22 hrs 8 mins       █████████████████████████   100.00 % 
+```
