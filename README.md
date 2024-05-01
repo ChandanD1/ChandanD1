@@ -82,7 +82,6 @@ Mac OS                   22 hrs 8 mins       ███████████�
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
@@ -91,7 +90,6 @@ Mac OS                   22 hrs 8 mins       ███████████�
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-dhumale-72a684286/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.chandan._exe/)
 
-  
 </div>
 
-
+<img src="/assets/images/horizontal-divider-gradient.gif">
