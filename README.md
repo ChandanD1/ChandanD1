@@ -82,5 +82,17 @@ Mac OS                   22 hrs 8 mins       ███████████�
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Connect with me -->
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
+[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
+[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
+  
+</div>
 
 
