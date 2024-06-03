@@ -83,6 +83,7 @@ Mac OS                   22 hrs 8 mins       ███████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
+```js
 // Check if the code is functioning correctly
 if (isCodeWorking) {
     // Continuously improve the code quality until it reaches perfection
@@ -93,9 +94,12 @@ if (isCodeWorking) {
 
 while(alive) {
   eat();
-  sleep();
   code();
+  sleep();
+  repeat();
 }
+```
+
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
