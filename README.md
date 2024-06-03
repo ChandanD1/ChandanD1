@@ -93,9 +93,8 @@ if (isCodeWorking) {
 
 while(alive) {
   eat();
-  code();
   sleep();
-  repeat();
+  code();
 }
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
