@@ -83,6 +83,23 @@ Mac OS                   22 hrs 8 mins       ███████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
+// Check if the code is functioning correctly
+if (isCodeWorking) {
+    // Continuously improve the code quality until it reaches perfection
+    while (codeQuality < perfection) {
+        codeQuality++; // Increment code quality
+    }
+}
+
+while(alive) {
+  eat();
+  code();
+  sleep();
+  repeat();
+}
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
