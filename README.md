@@ -94,7 +94,7 @@ if (isCodeWorking) {
 
 while(alive) {
   eat();
-  Sleep();
+  sleep();
   code();
   repeat();
 }
