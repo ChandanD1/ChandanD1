@@ -67,7 +67,7 @@ Mac OS                   22 hrs 8 mins       ███████████�
 </div>
 
 <!--tech stack icons-->
-<div style="display:flex">
+<div style="display:flex; flex-direction: row;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
