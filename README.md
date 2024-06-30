@@ -73,7 +73,7 @@ Mac OS                   22 hrs 8 mins       ███████████�
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture> -->
-<p>
+<p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=js,html,css,c,python,discord,firebase,github,kali,mysql,cpp,git,vscode,figma,notion,ps,webflow,linkedin&perline=6" />
 </a>
