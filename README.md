@@ -67,17 +67,18 @@ Mac OS                   22 hrs 8 mins       ███████████�
 </div>
 
 <!--tech stack icons-->
-<p>
+<div style="display:flex">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<p align="right">
+<p>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=js,html,css,c,python,discord,firebase,github,kali,mysql,cpp,git,vscode,figma,notion,ps,webflow,linkedin&perline=6" />
 </a>
-</p></p>
+</p>
+</div>
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
